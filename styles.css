@@ -1,0 +1,17 @@
+h1{
+    color: red;
+}
+
+.f-st-p{
+    color: green;
+    font-size: 20px;
+    background-color: burlywood;
+    padding: 10px;
+    padding-left: 50px;
+    border-radius: 100px;
+    /* margin-left: 100px;
+    margin-right: 100px; */
+    /* margin: tob-bottom left-right; */
+    /* margin: tob right bottom left; */
+    margin: 0px 30px 0 220px;
+}
