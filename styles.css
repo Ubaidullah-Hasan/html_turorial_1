@@ -6,12 +6,23 @@ h1{
     color: green;
     font-size: 20px;
     background-color: burlywood;
-    padding: 10px;
-    padding-left: 50px;
+    /* padding: 10px;
+    padding-left: 50px; */
+    padding: 10px 10px 10px 100px;
     border-radius: 100px;
+    border: 5px dotted red; /* solid dashed dotted */
     /* margin-left: 100px;
     margin-right: 100px; */
     /* margin: tob-bottom left-right; */
     /* margin: tob right bottom left; */
     margin: 0px 30px 0 220px;
+}
+
+.click-me-btn{
+    background-color: plum;
+    padding: 10px 25px;
+    border-radius: 50px;
+    margin: 20px 0 0 48%;
+    font-size: 20px;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.429);
 }
